@@ -2,6 +2,8 @@
 Este repositório hospeda os arquivos gerados durante o desenvolvimento de um jogo de pokemon utilizando o protocolo ERC721.
 O jogo funciona utilizando sistema de turnos onde o pokemon com maior level causa maior dano no pokemon com menor level.
 
+Projeto e Desafio fomentado pela DIO.
+
 
 
 
